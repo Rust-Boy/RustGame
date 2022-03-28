@@ -1,5 +1,5 @@
 # RUstGame
-A game written using trust, ggez framework.
+A game written using rust, ggez framework.
 
 Run:
 ```bash
