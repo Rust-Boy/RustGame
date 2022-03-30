@@ -1,5 +1,6 @@
 # RUstGame
 A game written using rust, ggez framework.
+
 415 lines.
 
 Run:
