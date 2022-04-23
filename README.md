@@ -6,7 +6,7 @@ A game written using rust, ggez framework.
 Run:
 ```bash
 git clone https://github.com/Rust-Boy/RustGame.git
-cd Game
+cd RustGame/Game
 cargo run
 ```
 
